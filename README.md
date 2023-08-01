@@ -1,2 +1,2 @@
 # Tarea-bigdata-docker
-Tarea de Big Data sobre usar Docker.
+Tarea de Big Data sobre usar Docker..
